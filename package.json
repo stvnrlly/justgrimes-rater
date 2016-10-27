@@ -1,0 +1,17 @@
+{
+  "name": "justgrimes-rater",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stvnrlly",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "moment": "^2.15.2",
+    "request": "^2.76.0",
+    "twit": "^2.2.5"
+  }
+}
